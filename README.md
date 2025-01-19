@@ -1,5 +1,5 @@
 # UDP洪水(伪造源) spoof-udpflood 
-## 欢迎加入我们的频道 https://t.me/sswcnet 
+## 欢迎加入我们的频道 
 ### 使用方法 ./udpflood 会提示(zonefile可以参考提供的cn.zone)
 ### 编译方法 gcc udpflood.c -o udpflood -pthread
 
